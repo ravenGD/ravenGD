@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Raven
-- I'm a small geometry dash youtuber
-- you should subscribe
-- 😄 Pronouns: he/him
+hi
